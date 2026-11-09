@@ -1,0 +1,7 @@
+TAPE 11. JULY 13, 1986.
+
+L: This is the second line. I'll read it once.
+
+[no signal, 14 sec. counter advances normally]
+
+L: That's all of it.
